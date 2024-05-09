@@ -1,7 +1,7 @@
-# 弦余(Xian yu)
+# 西郊有密林
 参上
 
-I'm a **college student** yet, I know nothing about programming.
+I'm a **college student** yet, I know nothing.
 **大一学生**一个，没有技术。
 
 All there have are the Garbage coded by myself.
